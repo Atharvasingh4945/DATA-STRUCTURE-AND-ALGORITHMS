@@ -14,3 +14,5 @@ class Solution(object):
         else:
             return False
         #drop count krna hai less than pe 1 return krna hai and and drop kya hai kab array sorted nhi hai like going from 2 to 1 is a drop
+        #ek rotate isliye count horha hai after one rotating if is gets correct position then then its sorted but if its not then sorted hogya hi nhii continuos rakhnaa hai array ko isliye 
+        #Input: nums = [2,1,3,4] isme 1 galat hai toh after sorting 1342 hoga then 2 ayega starting mai kyuki continuos rakhnaa hai 2134 ho jayega
