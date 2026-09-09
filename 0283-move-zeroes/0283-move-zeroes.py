@@ -17,9 +17,9 @@ class Solution(object):
         
         # ab kya kaare 2 pointer se array overwrite krenge
         pos=0
-        for i in range(0,len(nums)):
+        for i in range(0,len(nums)):# ab  non zero element ko aage push krenge with array overwriting
             if nums[i]!=0:
                 nums[pos]=nums[i]
                 pos+=1
-        for i in range(pos,len(nums)):
+        for i in range(pos,len(nums)):#for zeroes
             nums[i]=0
