@@ -15,4 +15,5 @@ class Solution(object):
             return
         self.Parentheses(n,open+1,close,ans+"(")
         self.Parentheses(n,open,close+1,ans+")")
-        
+        """Before a function call (self.Parentheses(...)): tells Python "call the Parentheses method that belongs to this object," so it can find it and auto-pass self into it too.
+Before a variable (self.result): tells Python "store/access this on this object," not as a local variable that disappears when the function ends. That's why self.result set in generateParenthesis is still visible inside Parentheses — both are looking at the same object's attribute, not separate local scopes."""
