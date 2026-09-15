@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
