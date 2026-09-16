@@ -9,7 +9,7 @@ class Solution(object):
         for i in range(0,len(nums)):
             if i==0 or nums[i]!=nums[i-1]:
                 #result.append(nums[i])
-                nums[count]=nums[i]
+                nums[count]=nums[i]#array overriding
                 count+=1
         return count
                 
