@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0278-first-bad-version) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
