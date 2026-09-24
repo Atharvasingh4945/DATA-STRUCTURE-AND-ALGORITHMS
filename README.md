@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0713-subarray-product-less-than-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String Matching
 |  |
 | ------- |
