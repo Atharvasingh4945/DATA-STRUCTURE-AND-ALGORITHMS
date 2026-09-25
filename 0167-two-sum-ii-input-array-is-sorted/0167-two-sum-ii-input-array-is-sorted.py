@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: List[int]
         """
         i=0#cannot do two pointer what if 1 ans last second forms the target soo that why thoda binary karna paddega
-        j=len(numbers)-1
+        j=len(numbers)-1#okie sliding window use kiya hai yha pe
         while(i<j):
             if numbers[i]+numbers[j]==target:
                 return i+1,j+1
