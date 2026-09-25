@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1096-brace-expansion-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
