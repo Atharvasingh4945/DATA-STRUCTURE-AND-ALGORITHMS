@@ -11,10 +11,10 @@ class Solution(object):
         count=0
         pro=1
         for right in range(len(nums)):
-            pro*=nums[right]
+            pro*=nums[right]#window banayi
             while pro>=k:
-                pro/=nums[left]
-                left+=1
-            count+=right-left+1
+                pro/=nums[left]#remove kr rahe hai
+                left+=1#add ke rahe hai
+            count+=right-left+1#update krr rahe hai
         return count
         
