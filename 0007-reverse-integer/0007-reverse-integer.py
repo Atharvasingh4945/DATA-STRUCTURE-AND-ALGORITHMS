@@ -4,17 +4,24 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        negative =x<0 #x<0 this is a boolean value like condition ke upaar hai
+        n=False
+        if x<0:
+            n = True
+            
         x=abs(x)
-        rev=0
-        while x>0:
-            digit=x%10
-            x=x//10
-            rev=rev*10+digit
-        if negative:
-            rev=-rev
-        if rev < -2**31 or rev > 2**31 - 1:# range ki bakchodi hai
+        if x==0:
             return 0
-        return rev
+        digit=0
+        while x>0:
+            rem=x%10
+            digit=digit*10+rem
+            x=x//10
+        if n==True:
+            digit=digit*-1
+        if -2**31>digit or 2**31-1<digit:
+            return 0
+        return digit
+        
 
+        
         
