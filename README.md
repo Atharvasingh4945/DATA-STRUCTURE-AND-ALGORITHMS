@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0050-powx-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Atharvasingh4945/DATA-STRUCTURE-AND-ALGORITHMS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
